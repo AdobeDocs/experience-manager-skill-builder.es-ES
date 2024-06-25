@@ -12,16 +12,16 @@ version: Cloud Service
 type: Event
 kt: 8935
 exl-id: fef99f2a-8480-4c64-8dbb-a120d203b498
-source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
+source-git-commit: 3e74a84c1a0336bcaa4d7aff43169ed769a66822
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Experience Manager Sites] fundamentos
 
-Aprenda a crear experiencias de cliente enriquecidas y atractivas en Adobe Experience Manager en esta serie de seminarios web con cinco partes. Empezaremos con los componentes básicos de la creación de contenido y le presentaremos los conceptos y operaciones fundamentales. AEM Esto incluirá las funciones de administración de sitios y los conceptos básicos de administración de recursos digitales dentro de los recursos de. En la última parte de la serie, descubra funciones que pueden ayudarle a ahorrar tiempo y ser más eficientes reutilizando el contenido y entregándolo en todos los canales.
+Aprenda a crear experiencias de cliente enriquecidas y atractivas en Adobe Experience Manager en esta serie de seminarios web con cinco partes. La serie comienza con los componentes básicos de la creación de contenido, a la vez que le presenta los conceptos y operaciones fundamentales. AEM Incluye funciones de administración de sitios y conceptos básicos para administrar recursos digitales dentro de las páginas de administración de recursos En la última parte de la serie, descubra funciones que pueden ayudarle a ahorrar tiempo y ser más eficientes reutilizando el contenido y entregándolo en todos los canales.
 
 ## Contenido para CUALQUIER LUGAR: hacer realidad las experiencias omnicanal
 

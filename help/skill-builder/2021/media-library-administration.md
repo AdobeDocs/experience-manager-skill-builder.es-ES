@@ -1,6 +1,6 @@
 ---
 title: No vuelva a perder tiempo buscando contenido
-description: AEM Conviértase en un autor experto con una profundización en la interfaz de usuario de administración de Media Library y Sitios web de con consejos y trucos para aumentar su eficacia diaria
+description: AEM Mejore su capacidad de creación con una guía detallada de Sites y Media Library con consejos prácticos para optimizar el flujo de trabajo diario.
 solution: "[!DNL Experience Manager],[!DNL Experience Manager Sites]"
 product: experience manager
 sub-product: sites
@@ -12,22 +12,22 @@ version: Cloud Service
 type: Event
 kt: 8937
 exl-id: 080d9491-4d0a-4336-a4e0-a82d7bf5a278
-source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
+source-git-commit: 2cc786333e88439d68bd1f7d332e53f8714a76f9
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Experience Manager Sites] fundamentos
 
-Aprenda a crear experiencias de cliente enriquecidas y atractivas en Adobe Experience Manager en esta serie de seminarios web con cinco partes. Empezaremos con los componentes básicos de la creación de contenido y le presentaremos los conceptos y operaciones fundamentales. AEM Esto incluirá las funciones de administración de sitios y los conceptos básicos de administración de recursos digitales dentro de los recursos de. En la última parte de la serie, descubra funciones que pueden ayudarle a ahorrar tiempo y ser más eficientes reutilizando el contenido y entregándolo en todos los canales.
+Aprenda a crear experiencias de cliente enriquecidas y atractivas en Adobe Experience Manager en esta serie de seminarios web con cinco partes. La serie comienza con los componentes básicos de la creación de contenido, a la vez que le presenta los conceptos y operaciones fundamentales. AEM Incluye funciones de administración de sitios y conceptos básicos para administrar recursos digitales dentro de las páginas de administración de recursos En la última parte de la serie, descubra funciones que pueden ayudarle a ahorrar tiempo y ser más eficientes reutilizando el contenido y entregándolo en todos los canales.
 
 ## No vuelva a perder tiempo buscando contenido
 
 >[!VIDEO](https://video.tv.adobe.com/v/336983/?quality=12&learn=on&hidetitle=true)
 
-AEM Conviértase en un autor experto con una profundización en la interfaz de usuario de administración de Media Library y Sitios web de con consejos y trucos para aumentar su eficacia diaria.
+Mejore sus habilidades de creación con un recorrido AEM a través de la interfaz de usuario de administración de Media Library y sitios de sitios web de, equipada con estrategias eficaces para aumentar su productividad diaria.
 
 ## Grabaciones de series
 

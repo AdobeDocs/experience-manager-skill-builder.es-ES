@@ -1,6 +1,6 @@
 ---
-title: Cree experiencias web hermosas rápidamente
-description: Aprenda a crear fundamentos y habilidades para crear y editar páginas rápidamente
+title: Cree experiencias web atractivas rápidamente
+description: Obtenga información sobre los aspectos básicos de la creación y las habilidades para crear y editar páginas rápidamente.
 solution: "[!DNL Experience Manager],[!DNL Experience Manager Sites]"
 product: experience manager
 sub-product: sites
@@ -12,22 +12,22 @@ version: Cloud Service
 type: Event
 kt: 8945
 exl-id: cc4b57a5-c76a-48fa-9c05-39374081fc45
-source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
+source-git-commit: 2cc786333e88439d68bd1f7d332e53f8714a76f9
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Experience Manager Sites] fundamentos
 
-Aprenda a crear experiencias de cliente enriquecidas y atractivas en Adobe Experience Manager en esta serie de seminarios web con cinco partes. Empezaremos con los componentes básicos de la creación de contenido y le presentaremos los conceptos y operaciones fundamentales. AEM Esto incluirá las funciones de administración de sitios y los conceptos básicos de administración de recursos digitales dentro de los recursos de. En la última parte de la serie, descubra funciones que pueden ayudarle a ahorrar tiempo y ser más eficientes reutilizando el contenido y entregándolo en todos los canales.
+Aprenda a crear experiencias de cliente enriquecidas y atractivas en Adobe Experience Manager en esta serie de seminarios web con cinco partes. La serie comienza con los componentes básicos de la creación de contenido, a la vez que le presenta los conceptos y operaciones fundamentales. AEM Incluye funciones de administración de sitios y conceptos básicos para administrar recursos digitales dentro de las páginas de administración de recursos En la última parte de la serie, descubra funciones que pueden ayudarle a ahorrar tiempo y ser más eficientes reutilizando el contenido y entregándolo en todos los canales.
 
 ## Cree experiencias web hermosas rápidamente
 
 >[!VIDEO](https://video.tv.adobe.com/v/337014/?quality=12&learn=on&hidetitle=true)
 
-Aprenda los aspectos básicos de la creación y las habilidades para crear y editar páginas rápidamente.
+Aprenda habilidades fundamentales de creación para crear y editar páginas rápidamente.
 
 ## Grabaciones de series
 

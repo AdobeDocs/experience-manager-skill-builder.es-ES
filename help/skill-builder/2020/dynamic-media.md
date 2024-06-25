@@ -12,16 +12,16 @@ version: Cloud Service
 type: Event
 kt: 7341
 exl-id: 8aebf75a-a17b-4d06-9e50-b2ab742fe790
-source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
+source-git-commit: e184d1b56ed23c42e1445434b7ad1e77874566b3
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 2%
+source-wordcount: '115'
+ht-degree: 3%
 
 ---
 
 # [!DNL Dynamic Media]- ADOBE [!DNL Experience Manager Assets] serie
 
-Utilice esta serie de seminarios web en cinco partes para crear su base de conocimientos y maximizar su inversión en Adobes [!DNL Experience Manager Assets]. Si eres un profesional que es nuevo en el Adobe [!DNL Experience Manager Assets] o han estado usando el Adobe [!DNL Experience Manager Assets] durante un tiempo y con el objetivo de profundizar en sus habilidades actuales, esta es la manera ideal de profundizar en cinco de las áreas más importantes de la solución. Los expertos en Adobe revisarán los conceptos básicos y también proporcionarán perspectivas avanzadas que le dejarán con próximos pasos procesables que puede poner en práctica inmediatamente.
+Utilice esta serie de seminarios web en cinco partes para crear su base de conocimientos y maximizar su inversión en Adobes [!DNL Experience Manager Assets]. Descubra o perfeccione su Adobe [!DNL Experience Manager Assets] experiencia con una profundización enfocada en sus cinco características esenciales: su vía rápida hacia la competencia. Los expertos en Adobe revisan los conceptos básicos y también proporcionan perspectivas avanzadas que le dejan con próximos pasos procesables que puede poner en práctica inmediatamente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332132/?quality=12&learn=on&hidetitle=true)
 
@@ -29,11 +29,11 @@ Automatice la salida de recursos para todos los canales y pantallas con [!DNL Dy
 
 ## Recursos
 
-*[[!DNL Dynamic Media] Casos de uso](https://www.adobe.com/content/dam/acom/en/marketing-cloud/experience-manager/pdfs/dynamic-media_dynamic-media-classic-use-cases-2019.pdf)
-*[[!DNL Dynamic Media] Vídeos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use.html?lang=en#dynamic-media)
+*[[!DNL Dynamic Media] Casos de uso](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-journey/dm-journey-part1)
+*[[!DNL Dynamic Media] Vídeos](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use#dynamic-media)
 *[Guía de inicio de estrategia de medios enriquecidos](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
 *[Guía de ajustes preestablecidos de imagen de estrategia de medios enriquecidos](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
-*[La imagen es todo Blog Series](https://blog.adobe.com/en/2019/04/11/image-is-everything-part-1-has-your-rich-media-strategy-expired.html#gs.iou0ek)
+*[Prácticas recomendadas de Dynamic Media](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-journey/dm-best-practices)
 
 ## Grabaciones de series
 
