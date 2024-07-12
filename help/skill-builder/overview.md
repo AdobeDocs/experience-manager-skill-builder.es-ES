@@ -9,9 +9,9 @@ ht-degree: 4%
 
 ---
 
-# [!DNL Experience Manager] Grabaciones de Skills Builder
+# [!DNL Experience Manager] grabaciones de Skill Builder
 
-Bienvenido al Adobe [!DNL Experience Manager] Inicio de Skills Builder Recordings con seminarios web grabados diseñados para crear su base de conocimientos y maximizar su inversión en Adobes [!DNL Experience Manager].
+Bienvenido a la página de inicio de Skills Builder Recordings del Adobe [!DNL Experience Manager], que incluye seminarios web grabados diseñados para generar su base de conocimientos y maximizar su inversión en el Adobe [!DNL Experience Manager].
 
 ## Novedades
 

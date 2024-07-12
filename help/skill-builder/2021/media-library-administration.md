@@ -1,6 +1,6 @@
 ---
 title: No vuelva a perder tiempo buscando contenido
-description: AEM Mejore su capacidad de creación con una guía detallada de Sites y Media Library con consejos prácticos para optimizar el flujo de trabajo diario.
+description: AEM Mejore su capacidad de creación con una guía detallada sobre los sitios de creación y Media Library de la con consejos prácticos para optimizar el flujo de trabajo diario.
 solution: "[!DNL Experience Manager],[!DNL Experience Manager Sites]"
 product: experience manager
 sub-product: sites
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Experience Manager Sites] fundamentos
+# Conceptos básicos del Adobe [!DNL Experience Manager Sites]
 
 Aprenda a crear experiencias de cliente enriquecidas y atractivas en Adobe Experience Manager en esta serie de seminarios web con cinco partes. La serie comienza con los componentes básicos de la creación de contenido, a la vez que le presenta los conceptos y operaciones fundamentales. AEM Incluye funciones de administración de sitios y conceptos básicos para administrar recursos digitales dentro de las páginas de administración de recursos En la última parte de la serie, descubra funciones que pueden ayudarle a ahorrar tiempo y ser más eficientes reutilizando el contenido y entregándolo en todos los canales.
 
@@ -27,7 +27,7 @@ Aprenda a crear experiencias de cliente enriquecidas y atractivas en Adobe Exper
 
 >[!VIDEO](https://video.tv.adobe.com/v/336983/?quality=12&learn=on&hidetitle=true)
 
-Mejore sus habilidades de creación con un recorrido AEM a través de la interfaz de usuario de administración de Media Library y sitios de sitios web de, equipada con estrategias eficaces para aumentar su productividad diaria.
+Mejore sus habilidades de creación con un recorrido AEM a través de la interfaz de usuario de administración de Media Library y sitios web de, equipada con estrategias eficaces para impulsar su productividad diaria.
 
 ## Grabaciones de series
 

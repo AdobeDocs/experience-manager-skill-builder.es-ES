@@ -19,9 +19,9 @@ ht-degree: 3%
 
 ---
 
-# [!DNL Dynamic Media]- ADOBE [!DNL Experience Manager Assets] serie
+# [!DNL Dynamic Media]- Adobe [!DNL Experience Manager Assets] serie
 
-Utilice esta serie de seminarios web en cinco partes para crear su base de conocimientos y maximizar su inversión en Adobes [!DNL Experience Manager Assets]. Descubra o perfeccione su Adobe [!DNL Experience Manager Assets] experiencia con una profundización enfocada en sus cinco características esenciales: su vía rápida hacia la competencia. Los expertos en Adobe revisan los conceptos básicos y también proporcionan perspectivas avanzadas que le dejan con próximos pasos procesables que puede poner en práctica inmediatamente.
+Utilice esta serie de seminarios web de cinco partes para generar su base de conocimientos y maximizar su inversión en el Adobe [!DNL Experience Manager Assets]. Descubra o perfeccione su experiencia en [!DNL Experience Manager Assets] de Adobe con una profundización centrada en sus cinco características esenciales: su camino rápido a la competencia. Los expertos en Adobe revisan los conceptos básicos y también proporcionan perspectivas avanzadas que le dejan con próximos pasos procesables que puede poner en práctica inmediatamente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332132/?quality=12&learn=on&hidetitle=true)
 
@@ -31,7 +31,7 @@ Automatice la salida de recursos para todos los canales y pantallas con [!DNL Dy
 
 *[[!DNL Dynamic Media] Casos de uso](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-journey/dm-journey-part1)
 *[[!DNL Dynamic Media] Vídeos](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use#dynamic-media)
-*[Guía de inicio de estrategia de medios enriquecidos](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
+*[Guía de Kickstart de estrategia para medios enriquecidos](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
 *[Guía de ajustes preestablecidos de imagen de estrategia de medios enriquecidos](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
 *[Prácticas recomendadas de Dynamic Media](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-journey/dm-best-practices)
 

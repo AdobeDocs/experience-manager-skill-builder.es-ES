@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Experience Manager Sites] fundamentos
+# Conceptos básicos del Adobe [!DNL Experience Manager Sites]
 
 Aprenda a crear experiencias de cliente enriquecidas y atractivas en Adobe Experience Manager en esta serie de seminarios web con cinco partes. La serie comienza con los componentes básicos de la creación de contenido, a la vez que le presenta los conceptos y operaciones fundamentales. AEM Incluye funciones de administración de sitios y conceptos básicos para administrar recursos digitales dentro de las páginas de administración de recursos En la última parte de la serie, descubra funciones que pueden ayudarle a ahorrar tiempo y ser más eficientes reutilizando el contenido y entregándolo en todos los canales.
 

@@ -19,9 +19,9 @@ ht-degree: 3%
 
 ---
 
-# BRAND PORTAL - ADOBE [!DNL Experience Manager Assets] serie
+# Brand Portal - Adobe [!DNL Experience Manager Assets] series
 
-Utilice esta serie de seminarios web en cinco partes para crear su base de conocimientos y maximizar su inversión en Adobes [!DNL Experience Manager Assets]. Mejore su dominio del Adobe [!DNL Experience Manager Assets], tanto si eres un principiante como si tienes experiencia. Sumérjase en los cinco aspectos críticos de la plataforma con esta guía completa. Los expertos en Adobe revisan los conceptos básicos y también proporcionan perspectivas avanzadas que le dejan con próximos pasos procesables que puede poner en práctica inmediatamente.
+Utilice esta serie de seminarios web de cinco partes para generar su base de conocimientos y maximizar su inversión en el Adobe [!DNL Experience Manager Assets]. Mejore su dominio del Adobe [!DNL Experience Manager Assets], ya sea un principiante o experimentado. Sumérjase en los cinco aspectos críticos de la plataforma con esta guía completa. Los expertos en Adobe revisan los conceptos básicos y también proporcionan perspectivas avanzadas que le dejan con próximos pasos procesables que puede poner en práctica inmediatamente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332133/?quality=12&learn=on&hidetitle=true)
 
@@ -30,7 +30,7 @@ Brand Portal permite compartir recursos fácilmente con equipos internos y exter
 ## Recursos
 
 * [Información general de [!UICONTROL Brand Portal]](https://experienceleague.adobe.com/en/docs/experience-manager-brand-portal/using/introduction/brand-portal)
-* [[!UICONTROL Brand Portal] Vídeos](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/sharing/brand-portal/brand-portal)
+* [[!UICONTROL Vídeos de Brand Portal]](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/sharing/brand-portal/brand-portal)
 * [[!DNL Asset] abastecimiento](https://experienceleague.adobe.com/en/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing)
 
 ## Grabaciones de series

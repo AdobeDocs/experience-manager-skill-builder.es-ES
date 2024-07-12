@@ -14,7 +14,7 @@ ht-degree: 3%
 
 ---
 
-# Prácticas recomendadas de prueba con [!DNL Cloud Manager] - Septiembre de 2019
+# Prácticas recomendadas de prueba con [!DNL Cloud Manager]: septiembre de 2019
 
 >[!VIDEO](https://video.tv.adobe.com/v/329028/?quality=9&learn=on)
 

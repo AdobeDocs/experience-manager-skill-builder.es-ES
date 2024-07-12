@@ -19,20 +19,20 @@ ht-degree: 5%
 
 ---
 
-# [!DNL Asset Link] - ADOBE [!DNL Experience Manager Assets] serie
+# [!DNL Asset Link] - Adobe [!DNL Experience Manager Assets] serie
 
-Utilice esta serie de seminarios web en cinco partes para crear su base de conocimientos y maximizar su inversión en Adobes [!DNL Experience Manager Assets]. Nuevo o sazonado en Adobe [!DNL Experience Manager Assets]? Perfeccione sus habilidades con una exploración exhaustiva de sus cinco características clave. Aumente su experiencia de forma eficaz. Los expertos en Adobe revisan los conceptos básicos y también proporcionan perspectivas avanzadas que le dejan con próximos pasos procesables que puede poner en práctica inmediatamente.
+Utilice esta serie de seminarios web de cinco partes para generar su base de conocimientos y maximizar su inversión en el Adobe [!DNL Experience Manager Assets]. ¿Nuevo o sazonado en el Adobe [!DNL Experience Manager Assets]? Perfeccione sus habilidades con una exploración exhaustiva de sus cinco características clave. Aumente su experiencia de forma eficaz. Los expertos en Adobe revisan los conceptos básicos y también proporcionan perspectivas avanzadas que le dejan con próximos pasos procesables que puede poner en práctica inmediatamente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332127/?quality=12&learn=on&hidetitle=true)
 
-[!DNL Asset Link] es su conexión nativa con Adobe Creative Cloud.
+[!DNL Asset Link] es su conexión nativa a Adobe Creative Cloud.
 
 ## Recursos
 
 * [Adobe [!DNL Asset Link] vídeos](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link)
 * [[!DNL Asset Link] para Adobe XD](https://helpx.adobe.com/es/enterprise/using/adobe-asset-link-for-xd.html)
 * [Configurar [!DNL AEM Assets] 6.5 y 6.4 para el Adobe [!DNL Asset Link]](https://helpx.adobe.com/enterprise/using/configure-aem-assets-6-for-asset-link.html)
-* [Configurar [!DNL AEM as a Cloud Service] para Adobe [!DNL Asset Link]](https://helpx.adobe.com/enterprise/using/configure-aem-assets-for-asset-link.html)
+* [Configurar [!DNL AEM as a Cloud Service] para el Adobe [!DNL Asset Link]](https://helpx.adobe.com/enterprise/using/configure-aem-assets-for-asset-link.html)
 
 ## Grabaciones de series
 
