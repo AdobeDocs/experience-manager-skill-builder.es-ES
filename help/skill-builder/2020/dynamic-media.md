@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Dynamic Media]"
+title: '[!DNL Dynamic Media]'
 description: Automatice la salida de recursos para todos los canales y pantallas
 solution: "[!DNL Experience Manager], [!DNL Experience Manager Assets]"
 product: experience manager
@@ -8,20 +8,20 @@ feature: "[!DNL Dynamic Media Classic]"
 topic: Content Management
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 7341
 exl-id: 8aebf75a-a17b-4d06-9e50-b2ab742fe790
-source-git-commit: e184d1b56ed23c42e1445434b7ad1e77874566b3
+source-git-commit: 88778b44085fa79695d92f37f167b000be357965
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 3%
 
 ---
 
-# [!DNL Dynamic Media]- Adobe [!DNL Experience Manager Assets] serie
+# [!DNL Dynamic Media]- Adobe [!DNL Experience Manager Assets] series
 
-Utilice esta serie de seminarios web de cinco partes para generar su base de conocimientos y maximizar su inversión en el Adobe [!DNL Experience Manager Assets]. Descubra o perfeccione su experiencia en [!DNL Experience Manager Assets] de Adobe con una profundización centrada en sus cinco características esenciales: su camino rápido a la competencia. Los expertos en Adobe revisan los conceptos básicos y también proporcionan perspectivas avanzadas que le dejan con próximos pasos procesables que puede poner en práctica inmediatamente.
+Utilice esta serie de seminarios web de cinco partes para generar su base de conocimientos y maximizar su inversión en Adobe [!DNL Experience Manager Assets]. Descubra o perfeccione su experiencia en Adobe [!DNL Experience Manager Assets] con una profundización enfocada en sus cinco características esenciales: su camino rápido a la competencia. Los expertos de Adobe revisan los conceptos básicos y también proporcionan perspectivas avanzadas que le permiten llevar a cabo próximos pasos procesables que puede poner en práctica inmediatamente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332132/?quality=12&learn=on&hidetitle=true)
 

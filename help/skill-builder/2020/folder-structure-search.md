@@ -8,20 +8,20 @@ feature: Asset Management
 topic: Content Management
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 7338
 exl-id: 596b3f82-405c-47bf-af63-55f72bd8634e
-source-git-commit: 2cc786333e88439d68bd1f7d332e53f8714a76f9
+source-git-commit: 88778b44085fa79695d92f37f167b000be357965
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 2%
 
 ---
 
-# Estructura de carpetas y búsqueda: Adobe [!DNL Experience Manager Assets] serie
+# Estructura de carpetas y búsqueda: serie [!DNL Experience Manager Assets] de Adobe
 
-Utilice esta serie de seminarios web de cinco partes para generar su base de conocimientos y maximizar su inversión en el Adobe [!DNL Experience Manager Assets]. Tanto si es nuevo en el Adobe [!DNL Experience Manager Assets] como si está perfeccionando sus habilidades, esta profundización en cinco áreas clave es la manera perfecta de mejorar su experiencia. Los expertos en Adobe revisan los conceptos básicos y también proporcionan perspectivas avanzadas que le dejan con próximos pasos procesables que puede poner en práctica inmediatamente.
+Utilice esta serie de seminarios web de cinco partes para generar su base de conocimientos y maximizar su inversión en Adobe [!DNL Experience Manager Assets]. Tanto si es nuevo en Adobe [!DNL Experience Manager Assets] como si está perfeccionando sus habilidades, esta profundización en cinco áreas clave es la manera perfecta de mejorar su experiencia. Los expertos de Adobe revisan los conceptos básicos y también proporcionan perspectivas avanzadas que le permiten llevar a cabo próximos pasos procesables que puede poner en práctica inmediatamente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332135/?quality=12&learn=on&hidetitle=true)
 
