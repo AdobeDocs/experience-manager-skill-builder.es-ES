@@ -29,10 +29,10 @@ Utilice esta serie de seminarios web de cinco partes para generar su base de con
 
 ## Recursos
 
-* [Adobe [!DNL Asset Link] vídeos](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link)
+* [Adobe [!DNL Asset Link] vídeos](https://experienceleague.adobe.com/es/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link)
 * [[!DNL Asset Link] para Adobe XD](https://helpx.adobe.com/es/enterprise/using/adobe-asset-link-for-xd.html)
-* [Configurar [!DNL AEM Assets] 6.5 y 6.4 para Adobe [!DNL Asset Link]](https://helpx.adobe.com/enterprise/using/configure-aem-assets-6-for-asset-link.html)
-* [Configurar [!DNL AEM as a Cloud Service] para Adobe [!DNL Asset Link]](https://helpx.adobe.com/enterprise/using/configure-aem-assets-for-asset-link.html)
+* [Configurar [!DNL AEM Assets] 6.5 y 6.4 para Adobe [!DNL Asset Link]](https://helpx.adobe.com/es/enterprise/using/configure-aem-assets-6-for-asset-link.html)
+* [Configurar [!DNL AEM as a Cloud Service] para Adobe [!DNL Asset Link]](https://helpx.adobe.com/es/enterprise/using/configure-aem-assets-for-asset-link.html)
 
 ## Grabaciones de series
 

@@ -29,12 +29,12 @@ Configurar una estrategia clara para optimizar la capacidad de detección.
 
 ## Recursos
 
-*[Usar esquemas de metadatos para administrar metadatos de recursos](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/authoring/metadata)
-*[Ampliar esquemas de metadatos](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/metadata-schemas)
-*[Optimizar la creación de metadatos con metadatos en cascada](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use)
-*[Aplicar metadatos automáticamente a los recursos mediante perfiles de metadatos](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/metadata-profiles)
-*[Esquemas de metadatos de AEM](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/metadata-schemas#administer)
-*[Administrar metadatos de recursos](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/using/metadata#RegisteringacustomnamespacewithinAEM)
+*[Usar esquemas de metadatos para administrar metadatos de recursos](https://experienceleague.adobe.com/es/docs/experience-manager-learn/assets/authoring/metadata)
+*[Ampliar esquemas de metadatos](https://experienceleague.adobe.com/es/docs/experience-manager-learn/assets/configuring/metadata-schemas)
+*[Optimizar la creación de metadatos con metadatos en cascada](https://experienceleague.adobe.com/es/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use)
+*[Aplicar metadatos automáticamente a los recursos mediante perfiles de metadatos](https://experienceleague.adobe.com/es/docs/experience-manager-learn/assets/configuring/metadata-profiles)
+*[Esquemas de metadatos de AEM](https://experienceleague.adobe.com/es/docs/experience-manager-65/content/assets/administer/metadata-schemas#administer)
+*[Administrar metadatos de recursos](https://experienceleague.adobe.com/es/docs/experience-manager-65/content/assets/using/metadata#RegisteringacustomnamespacewithinAEM)
 
 ## Grabaciones de series
 
