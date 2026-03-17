@@ -1,7 +1,7 @@
 ---
 title: Estructura de carpetas y búsqueda
 description: Aspectos básicos sobre la configuración y el uso de DAM
-solution: "[!DNL Experience Manager], [!DNL Experience Manager Assets]"
+solution: Experience Manager, Experience Manager Assets
 product: experience manager
 sub-product: assets
 feature: Asset Management
@@ -12,10 +12,10 @@ version: Experience Manager as a Cloud Service
 type: Event
 kt: 7338
 exl-id: 596b3f82-405c-47bf-af63-55f72bd8634e
-source-git-commit: 88778b44085fa79695d92f37f167b000be357965
+source-git-commit: c221dbcf45e748f545dac0c2b511f33a7dbb8dac
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 2%
+source-wordcount: '217'
+ht-degree: 1%
 
 ---
 
@@ -29,13 +29,13 @@ Aspectos básicos de la configuración y el uso de DAM.
 
 ## Recursos
 
-* [[!DNL AEM Assets] Guía de usuario](https://experienceleague.adobe.com/es/docs/experience-manager-65/content/assets/assets)
-* [Configurando tu [!DNL AEM Assets] estructura de carpetas](https://experienceleague.adobe.com/es/docs/experience-manager-learn/assets/configuring/baseline-folders)
-* [Configurar [!DNL AEM Assets] permisos de carpeta](https://experienceleague.adobe.com/es/docs/experience-manager-learn/assets/configuring/baseline-permissions)
-* [Use colecciones para organizar y compartir recursos](https://experienceleague.adobe.com/es/docs/experience-manager-learn/assets/search-and-discovery/collections)
-* [Buscar recursos visualmente similares con aprendizaje automático](https://experienceleague.adobe.com/es/docs/experience-manager-learn/assets/search-and-discovery/search)
-* [Obtenga resultados de búsqueda precisos con las facetas de búsqueda dinámica](https://experienceleague.adobe.com/es/docs/experience-manager-learn/assets/search-and-discovery/search)
-* [Sintaxis avanzada de búsqueda de texto completo](https://experienceleague.adobe.com/es/docs/experience-manager-64/assets/using/gql-search#using)
+* [Guía del usuario de [!DNL AEM Assets]](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/assets)
+* [Configurando la estructura de carpetas  [!DNL AEM Assets] ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/baseline-folders)
+* [Configurar  [!DNL AEM Assets] permisos de carpeta](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/baseline-permissions)
+* [Uso de colecciones para organizar y compartir recursos](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/collections)
+* [Búsqueda de recursos visualmente similares con aprendizaje automático](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/search)
+* [Obtenga resultados de búsqueda precisos con facetas de búsqueda dinámica](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/search)
+* [Sintaxis avanzada de búsqueda de texto completo](https://experienceleague.adobe.com/en/docs/experience-manager-64/assets/using/gql-search#using)
 
 ## Grabaciones de series
 

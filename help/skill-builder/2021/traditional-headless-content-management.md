@@ -1,7 +1,7 @@
 ---
 title: 'La web y más allá: el poder de la administración de contenido tradicional y sin encabezado'
 description: Descubra cómo los marcos de trabajo tradicionales y sin encabezado de CMS están dando forma al futuro de la administración de contenido y la entrega de experiencias digitales.
-solution: "[!DNL Experience Manager],[!DNL Experience Manager Sites]"
+solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
 feature: Authoring
@@ -12,9 +12,9 @@ version: Experience Manager as a Cloud Service
 type: Event
 kt: 8938
 exl-id: 86f2ce11-9603-4848-9626-46ed49ef821a
-source-git-commit: 88778b44085fa79695d92f37f167b000be357965
+source-git-commit: c221dbcf45e748f545dac0c2b511f33a7dbb8dac
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
