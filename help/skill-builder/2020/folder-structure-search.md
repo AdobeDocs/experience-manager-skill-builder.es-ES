@@ -30,7 +30,7 @@ Aspectos básicos de la configuración y el uso de DAM.
 ## Recursos
 
 * [Guía del usuario de [!DNL AEM Assets]](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/assets)
-* [Configurando la estructura de carpetas  [!DNL AEM Assets] ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/baseline-folders)
+* [Configurando la estructura de carpetas  [!DNL AEM Assets] &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/baseline-folders)
 * [Configurar  [!DNL AEM Assets] permisos de carpeta](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/baseline-permissions)
 * [Uso de colecciones para organizar y compartir recursos](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/collections)
 * [Búsqueda de recursos visualmente similares con aprendizaje automático](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/search)
