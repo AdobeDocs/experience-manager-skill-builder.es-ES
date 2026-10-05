@@ -11,9 +11,7 @@ source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
 workflow-type: tm+mt
 source-wordcount: '29'
 ht-degree: 3%
-
 ---
-
 # Prácticas recomendadas de prueba con [!DNL Cloud Manager]: septiembre de 2019
 
 >[!VIDEO](https://video.tv.adobe.com/v/329028/?quality=9&learn=on)
